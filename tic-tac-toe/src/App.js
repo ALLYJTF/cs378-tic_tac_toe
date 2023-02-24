@@ -23,10 +23,11 @@ function App() {
 }
 
 
-
+/*
 export default function Square() {
   return <button className="square">X</button>;
 }
+*/
 
-
+export default App;
 
